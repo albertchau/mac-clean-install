@@ -1,0 +1,152 @@
+<keymap version="1" name="Alberts Settings" parent="Mac OS X">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+  <action id="ActivateMavenProjectsToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta A" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta W" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareJars" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.Jdbc.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="Console.Jpa.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="Console.TableResult.DeleteRows">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="DSM.Close">
+    <keyboard-shortcut first-keystroke="shift meta F4" />
+  </action>
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Debugger.ViewText">
+    <keyboard-shortcut first-keystroke="control meta alt V" />
+  </action>
+  <action id="DecrementWindowWidth" />
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="control LEFT" />
+  </action>
+  <action id="Diff.SelectedChange" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="alt SPACE" />
+  </action>
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta D" />
+  </action>
+  <action id="EditorDeleteToWordStart" />
+  <action id="EditorDeleteToWordStartInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt BACK_SPACE" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta Y" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta RIGHT" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta LEFT" />
+  </action>
+  <action id="EditorNextWord" />
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt RIGHT" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift END" />
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="EditorNextWordWithSelection" />
+  <action id="EditorPageDownWithSelection" />
+  <action id="EditorPreviousWord" />
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="alt LEFT" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift HOME" />
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift PAGE_DOWN" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.NewFolder" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="meta alt U" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta alt G" second-keystroke="meta alt B" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoClass" />
+  <action id="GotoFile" />
+  <action id="GotoTest" />
+  <action id="GuiDesigner.ExpandSelection">
+    <keyboard-shortcut first-keystroke="shift PAGE_DOWN" />
+  </action>
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="Images.ShowThumbnails" />
+  <action id="Mvc.RunTarget" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta N" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift control N" />
+    <keyboard-shortcut first-keystroke="shift meta N" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="control TAB" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift control TAB" />
+  </action>
+  <action id="RearrangeCode">
+    <keyboard-shortcut first-keystroke="meta alt K" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta T" />
+  </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="meta alt R" />
+  </action>
+  <action id="ShowUmlDiagramPopup">
+    <keyboard-shortcut first-keystroke="control alt U" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift control S" second-keystroke="H" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift control S" second-keystroke="V" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="Switcher" />
+</keymap>
